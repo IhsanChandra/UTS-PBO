@@ -1,0 +1,5 @@
+C:\Users\ihsan\Desktop\PBO UTS\Ini tugasnya\belimakanan\belimakanan\obj\Debug\net5.0\belimakanan.csprojAssemblyReference.cache
+C:\Users\ihsan\Desktop\PBO UTS\Ini tugasnya\belimakanan\belimakanan\obj\Debug\net5.0\belimakanan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihsan\Desktop\PBO UTS\Ini tugasnya\belimakanan\belimakanan\obj\Debug\net5.0\belimakanan.AssemblyInfoInputs.cache
+C:\Users\ihsan\Desktop\PBO UTS\Ini tugasnya\belimakanan\belimakanan\obj\Debug\net5.0\belimakanan.AssemblyInfo.cs
+C:\Users\ihsan\Desktop\PBO UTS\Ini tugasnya\belimakanan\belimakanan\obj\Debug\net5.0\belimakanan.csproj.CoreCompileInputs.cache
